@@ -20,3 +20,11 @@ To ensure a smooth flow from storage to accessing data. Some enities and fields 
  Bookings: id, user_id, prop_type, arrival_time, departure_time
  Reviews, review_id, userid, user_review, rating
  Payments: id, user_id, card_type
+
+
+ Feature Breakdown
+    User Management:  A secure system for user registration, authentication, and profile management.
+    Property Management: This feature makes property listing creation, updates, and retrieval possible ensuring users can browse various           categories of properties both available and soldout
+    Booking System: Allows for users to reserve properties and manage booking details.
+   
+
