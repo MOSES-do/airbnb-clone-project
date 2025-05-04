@@ -36,5 +36,11 @@ To ensure a smooth flow from storage to accessing data. Some enities and fields 
  Password Security: Passwords will be stored using hashing technique such as bcrypt
 
  Security is essential to prevent breach of user privacy and protect the business from running at a loss by way of funds/sensitive data, compliance with laws and standards and downtimes.
+
+ CI/CD Pipeline:
+ CI/CD pipelines are automated workflows that help streamline and improve the software development process by automating code integration,    testing, and deployment.
+
+ Tools for CI/CD
+ Jenkins, GitHub Actions, GitLab CI/CD and AWS CodePipeline
    
 
