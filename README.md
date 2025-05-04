@@ -26,5 +26,15 @@ To ensure a smooth flow from storage to accessing data. Some enities and fields 
     User Management:  A secure system for user registration, authentication, and profile management.
     Property Management: This feature makes property listing creation, updates, and retrieval possible ensuring users can browse various           categories of properties both available and soldout
     Booking System: Allows for users to reserve properties and manage booking details.
+
+
+ API Security
+ Authentication/Authorization: Users authentication will be implemented using the conventional username/password and Oauth2.0/social login and  RBAC (role based authroization)
+ Rate limiting: This technique will be used to monitor how many requests a user or system can make to a server within a certain time period.
+ Input Validation & Sanitization: All user inputs will be sanitized to prevent sql injection and cross-site scripting
+ Encryption: Ensure server is SSL/TLS compliant to encrypt all data in transit and redirect all HTTP traffic to HTTPS.
+ Password Security: Passwords will be stored using hashing technique such as bcrypt
+
+ Security is essential to prevent breach of user privacy and protect the business from running at a loss by way of funds/sensitive data, compliance with laws and standards and downtimes.
    
 
